@@ -15,7 +15,7 @@ public class LinearSearch {
 
 	}
 	
-	public static void main(String args[]){
+	public static void main (String args[]){
 		
 		int arrs[] ={45,78,67,90};
 		
